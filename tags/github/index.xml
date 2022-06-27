@@ -4,7 +4,15 @@
         <link>https://XxZZZZZz.github.io/tags/github/</link>
         <description>GitHub - Tag - XZ的小空间</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>913836402@qq.com (XZ)</managingEditor>
-            <webMaster>913836402@qq.com (XZ)</webMaster><lastBuildDate>Mon, 27 Jun 2022 17:49:41 &#43;0800</lastBuildDate><atom:link href="https://XxZZZZZz.github.io/tags/github/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>913836402@qq.com (XZ)</webMaster><lastBuildDate>Mon, 27 Jun 2022 19:48:04 &#43;0800</lastBuildDate><atom:link href="https://XxZZZZZz.github.io/tags/github/" rel="self" type="application/rss+xml" /><item>
+    <title>XZ的小毛病</title>
+    <link>https://XxZZZZZz.github.io/posts/second/</link>
+    <pubDate>Mon, 27 Jun 2022 19:48:04 &#43;0800</pubDate>
+    <author>XZ</author>
+    <guid>https://XxZZZZZz.github.io/posts/second/</guid>
+    <description><![CDATA[怎么说呢，过程还算比较顺利的，唯一遇到比较麻烦的问题就是环境的编译上，没有及时地重启系统，导致接下来地步骤没办法顺利进行，然而在hugo和g]]></description>
+</item>
+<item>
     <title>XZ的新博客</title>
     <link>https://XxZZZZZz.github.io/posts/first/</link>
     <pubDate>Mon, 27 Jun 2022 17:49:41 &#43;0800</pubDate>
