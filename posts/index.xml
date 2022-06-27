@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - XZ的小空间</title>
+        <link>https://XxZZZZZz.github.io/posts/</link>
+        <description>All Posts | XZ的小空间</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>913836402@qq.com (XZ)</managingEditor>
+            <webMaster>913836402@qq.com (XZ)</webMaster><lastBuildDate>Mon, 27 Jun 2022 17:49:41 &#43;0800</lastBuildDate><atom:link href="https://XxZZZZZz.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>XZ的新博客</title>
+    <link>https://XxZZZZZz.github.io/posts/first/</link>
+    <pubDate>Mon, 27 Jun 2022 17:49:41 &#43;0800</pubDate>
+    <author>XZ</author>
+    <guid>https://XxZZZZZz.github.io/posts/first/</guid>
+    <description><![CDATA[我不知道为什么要写这个博客，但是我知道的是我已经做到了 未来可期]]></description>
+</item>
+</channel>
+</rss>
